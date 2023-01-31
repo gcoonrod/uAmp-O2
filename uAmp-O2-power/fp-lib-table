@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "uAmp-O2-power-Library")(type "KiCad")(uri "${KIPRJMOD}/uAmp-O2-power-Library.pretty")(options "")(descr ""))
+  (lib (name "uAmp-O2-Library")(type "KiCad")(uri "/Users/greg.coonrod/dev/personal/uAmp-O2/uAmp-O2-design/uAmp-O2-Library.pretty")(options "")(descr ""))
+)
