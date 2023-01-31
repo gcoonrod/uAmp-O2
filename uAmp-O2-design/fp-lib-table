@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "uAmp-O2-Library")(type "KiCad")(uri "${KIPRJMOD}/uAmp-O2-Library.pretty")(options "")(descr ""))
+)
